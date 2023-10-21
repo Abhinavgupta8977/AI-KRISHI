@@ -28,6 +28,8 @@ var swiper = new Swiper(".home-slider", {
     }
 
 });
+
+
 var swiper = new Swiper(".review-slider", {
     slidesPerView:1,
     grabCursor: true,
