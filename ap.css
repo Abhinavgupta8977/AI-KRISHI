@@ -150,7 +150,7 @@ section{
     height: 50rem;
     width: 35rem;
  }
-.home .home-slider .swiper-slide img{
+ .home .home-slider .swiper-slide img{
     height: 100%;
     width: 100%;
     object-fit: cover;
@@ -366,6 +366,14 @@ section{
     padding: .5rem 0;
     font-size: 1.6rem;
 }
+
+
+
+
+
+
+
+
 @media (max-width:991px){
     html{
         font-size: 55%
@@ -413,7 +421,6 @@ section{
     .home .content h3{
         font-size: 4rem;
     }
-
 
 }
 @media (max-width:450px){
